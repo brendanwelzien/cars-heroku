@@ -68,7 +68,7 @@ bcrypt = ["bcrypt"]
 name = "django-environ"
 version = "0.4.5"
 description = "Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application."
-category = "dev"
+category = "main"
 optional = false
 python-versions = "*"
 
@@ -217,7 +217,7 @@ brotli = ["brotli"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "b9d729138b947c1e38d2479ec012ae4d09766bcbaea1271d56307d8463ebe9fe"
+content-hash = "be340088c8ad20d2d4ef0beabb32221376bbca2ed6feb4a51c9c37553b91dcb5"
 
 [metadata.files]
 appdirs = [

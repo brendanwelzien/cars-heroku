@@ -4,4 +4,4 @@ build:
 release:
   image: web
 run:
-  web: gunicorn drf_api_permissions.wsgi
+  web: gunicorn drf_api_permissions_project.wsgi
